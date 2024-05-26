@@ -9,7 +9,7 @@
 
 - Малышев Владислав Владимирович ([Telegram](https://t.me/your_username_here))
 - Полуянов Дмитрий Валерьевич ([Telegram](https://t.me/your_username_here))
-- Бизин Егор Викторович ([Telegram](https://t.me/your_username_here))
+- Бизин Егор Викторович ([Telegram](https://t.me/livelifehard1))
 
 ## Назначение проекта
 
