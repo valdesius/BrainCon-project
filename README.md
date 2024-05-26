@@ -7,8 +7,8 @@
 
 ## Команда
 
-- Малышев Владислав Владимирович ([Telegram](https://t.me/your_username_here))
-- Полуянов Дмитрий Валерьевич ([Telegram](https://t.me/your_username_here))
+- Малышев Владислав Владимирович ([Telegram](https://t.me/valdes1us))
+- Полуянов Дмитрий Валерьевич ([Telegram](https://t.me/diamon4ic))
 - Бизин Егор Викторович ([Telegram](https://t.me/livelifehard1))
 
 ## Назначение проекта
