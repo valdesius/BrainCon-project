@@ -1,0 +1,6 @@
+[submodule "BrainConServer"]
+	path = BrainConServer
+	url = https://github.com/valdesius/BrainConServer.git
+[submodule "BrainConClient"]
+	path = BrainConClient
+	url = https://github.com/valdesius/BrainConClient.git
