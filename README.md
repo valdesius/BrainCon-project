@@ -40,7 +40,7 @@
 - [Макет приложения на Figma](https://www.figma.com/design/GJrvSs7IGGNp8WSl87mDnT/BrainCon?node-id=0-1&t=SsrECRlnFkrqmrf8-0)
 
 ## Демонстрация 
-[Видео](https://drive.google.com/drive/folders/11zkv7cy-dZHEbH3giJcDCvL5-cZPzl2L?hl=ru)
+[Видео](https://drive.google.com/file/d/1juIu-6hoYCCPFxkO1lanpve54vb2_rTl/view?usp=drive_link)
 
 ### Технологии
 
@@ -54,6 +54,6 @@
 ## Использование
 
 - **Приложение: ([apk](https://github.com/valdesius/BrainConClient/blob/main/app/src/main/java/com/example/brainconclient/app-debug.apk))
-Данные для входа
+- **Данные для входа**
 - ** Email:** admin@c.com
 - ** Пароль:** admin123
