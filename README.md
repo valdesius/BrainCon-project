@@ -11,6 +11,10 @@
 - Полуянов Дмитрий Валерьевич ([Telegram](https://t.me/diamon4ic))
 - Бизин Егор Викторович ([Telegram](https://t.me/livelifehard1))
 
+## Репозитории
+- ([Frontend](https://github.com/valdesius/BrainConClient))
+- ([Backend](https://github.com/valdesius/BrainConServer))
+
 ## Назначение проекта
 
 Проект предназначен для создания платформы, которая позволит студентам и менторам взаимодействовать, обмениваться знаниями и опытом, а также развивать профессиональные навыки в различных областях.
@@ -35,12 +39,21 @@
 
 - [Макет приложения на Figma](https://www.figma.com/design/GJrvSs7IGGNp8WSl87mDnT/BrainCon?node-id=0-1&t=SsrECRlnFkrqmrf8-0)
 
+## Демонстрация 
+[Видео](https://drive.google.com/drive/folders/11zkv7cy-dZHEbH3giJcDCvL5-cZPzl2L?hl=ru)
+
 ### Технологии
 
 - **Серверная часть:** Java, Spring
-- **Клиентская часть:** Android
+- **Клиентская часть:** Java, Android
 
+## Сопроводительное письмо
+- ([docx](https://github.com/valdesius/BrainCon-project/blob/main/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/Soprovoditelnoe_pismo_1.docx))
+- ([pdf](https://github.com/valdesius/BrainCon-project/blob/main/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/Soprovoditelnoe_pismo_1.pdf))
 
----
+## Использование
 
-Для получения дополнительной информации или помощи, пожалуйста, свяжитесь с членами команды через указанные выше ссылки на их Telegram аккаунты.
+- **Приложение: ([apk](https://github.com/valdesius/BrainConClient/blob/main/app/src/main/java/com/example/brainconclient/app-debug.apk))
+Данные для входа
+- ** Email:** admin@c.com
+- ** Пароль:** admin123
